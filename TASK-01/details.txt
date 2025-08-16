@@ -1,0 +1,12 @@
+grep -Ri "facility" /home/manishj/Terminal-Hunt
+ls -a
+manishj@manishj-Victus-by-HP-Gaming-Laptop-15-fb3xxx:~/Terminal-Hunt/Earth/Russia/Vladimir_Oblast$ cd .facility
+manishj@manishj-Victus-by-HP-Gaming-Laptop-15-fb3xxx:~/Terminal-Hunt/Earth/Russia/Vladimir_Oblast/.facility$ ls
+gravity_equation.txt
+manishj@manishj-Victus-by-HP-Gaming-Laptop-15-fb3xxx:~/Terminal-Hunt/Earth/Russia/Vladimir_Oblast/.facility$ nano gravity_equation.txt
+manishj@manishj-Victus-by-HP-Gaming-Laptop-15-fb3xxx:~/Terminal-Hunt/Earth/Russia/Vladimir_Oblast/.facility$ rm gravity_equation.txt
+
+
+The string: T25lIGxhc3QgdGFzaywgYW5kIHlvdSdsbCBoYXZlIHN1Y2Nlc3NmdWxseSBjb21
+
+
