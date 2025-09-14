@@ -1,7 +1,7 @@
 # amfoss-tasks
 AMFOSS PRAVESHAN 2025
 
-Hi, I'm Manish, a first year at Amrita Vishwa Vidyapeedam studying B-tech in CS(AI).I have knowledge in java and C. I am really willing to put a lot of effort and try to learn more.
+Hi, I'm Manish J., a first year at Amrita Vishwa Vidyapeedam studying B-tech in CS(AI).I have knowledge in java and C. I am really willing to put a lot of effort and try to learn more.
 
 Why should you choose me?
 
