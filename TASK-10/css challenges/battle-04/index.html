@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CSSBattle</title>
+  <style>
+    body {
+      margin: 0;
+      background: #243D83; /* purple */
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .box {
+      width: 120px;
+      height: 120px;
+      background: white;   /* white outline block */
+      position: absolute;  /* absolute so we can overlap */
+    }
+
+    .inner {
+      width: 80px;
+      height: 80px;
+      background: #243D83; /* purple cutout */
+      position: absolute;
+      top: 20px;
+      left: 20px;
+    }
+
+    /* Position first box (top-left) */
+    .one {
+      top: 50px;
+      left: 65px;
+    }
+
+    /* Position second box (shifted down & right) */
+    .two {
+      top: 115px;   /* move down */
+      left: 165px;  /* move right */
+    }
+  </style>
+</head>
+<body>
+  <div class="box one">
+    <div class="inner"></div>
+  </div>
+  <div class="box two">
+    <div class="inner"></div>
+  </div>
+</body>
+</html>
+

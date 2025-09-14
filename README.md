@@ -1,25 +1,17 @@
-# AMFOSS PRAVESHAN 2025
+# amfoss-tasks
+AMFOSS PRAVESHAN 2025
 
-## Why should we choose you?
-I am a first-year student in Computer Science (Artificial Intelligence) at Amrita Vishwa Vidyapeetham.  
-I have a strong passion for problem solving, learning new technologies, and contributing to meaningful projects.  
-I am persistent, eager to learn, and not afraid to step outside my comfort zone. I believe these qualities make me a good fit for amFOSS, where collaboration, consistency, and dedication are essential.  
+Hi, I'm Manish, a first year at Amrita Vishwa Vidyapeedam studying B-tech in CS(AI).I have knowledge in java and C. I am really willing to put a lot of effort and try to learn more.
 
-Joining amFOSS will give me an opportunity to grow technically and personally, while also allowing me to contribute my efforts toward the club’s goals.
+Why should you choose me?
 
-## How do you intend to contribute back to the club?
-I aim to contribute by:  
-- Actively participating in projects taken up by the club.  
-- Supporting peers by sharing knowledge, resources, and helping in debugging/troubleshooting.  
-- Documenting my learning process so future members can benefit from it.  
-- Taking part in open source initiatives under the club’s banner.  
-- Representing amFOSS in external hackathons, CTFs, and competitions.  
+I will try to make sure i am totally committed in what I do. Once I start something, I will try to complete it fully. I like taking up challenges, learning new things on my own, and I wont give up easily.
 
-In short, I intend to give back to the community that helps me grow by working with full commitment, collaborating effectively, and being dependable.
+How do I intend to contribute back to the club?
 
-## What are your fields of interest, and how do you plan on working on them?
-- **Artificial Intelligence & Machine Learning**  
-  I am fascinated by the process of creating and training models to solve real-world problems. I plan to build a strong foundation in mathematics and algorithms, and then contribute to AI-related projects in the club.  
+I will actively participate in tasks, projects, and events. I want to help others in the club if they get stuck and also share what I learn. I’ll try to bring consistency and dedication in whatever I do.
 
-- **Open Source Development**  
-  I want to contribute to open source projects by fixing bugs, adding features, and improving documentation. Working in open source communities will help me learn industry-level workflows while
+My fields of interest and how I plan to work on them
+
+I am mainly interested in AI,machine learning and Open Source development.
+I plan to improve by doing club tasks, contributing to open source projects, and learning step by step from seniors and teammates.I believe than joining this club would be a really great opportunity for me to improve my knowledge and also contribute it back to the club.

@@ -1,0 +1,7 @@
+body { background:#111; color:#fff; font-family:Arial, sans-serif; text-align:center; margin:0; padding:20px; }
+h1 { margin: 0 0 10px; }
+.hud { display:inline-flex; gap:14px; align-items:center; margin-bottom: 10px; }
+button { background:#222; color:#fff; border:1px solid #444; padding:6px 10px; border-radius:8px; cursor:pointer; }
+button:hover { filter: brightness(1.15); }
+#stage { background:#000; border:2px solid #fff; display:block; margin:12px auto; }
+#msg { min-height: 1.2em; color: #fca5a5; } /* red-ish for errors */

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Converge</title>
+  <style>
+    body {
+      margin: 0;
+      background: #E3516E; 
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .square {
+      width: 220px;
+      height: 220px;
+      background: #FADE8B; 
+      position: relative;
+    }
+
+    
+    .line1 {
+      position: absolute;
+      top: -50px;
+      left: 100px;
+      width: 20px;
+      height: 320px;
+      background: #E3516E;
+      transform: rotate(45deg);
+    }
+
+    
+    .line2 {
+      position: absolute;
+      top: -50px;
+      left: 100px;
+      width: 20px;
+      height: 320px;
+      background: #E3516E;
+      transform: rotate(-45deg);
+    }
+  </style>
+</head>
+<body>
+  <div class="square">
+    <div class="line1"></div>
+    <div class="line2"></div>
+  </div>
+</body>
+</html>

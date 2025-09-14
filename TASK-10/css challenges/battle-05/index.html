@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Shape Battle</title>
+  <style>
+    body {
+      margin: 0;
+      background: #328FC1;   /* blue background */
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .canvas {
+      width: 400px;
+      height: 300px;
+      position: relative;
+      background: #328FC1; /* same as body, just for clarity */
+    }
+
+    /* Vertical dark blue bar */
+    .vertical {
+      position: absolute;
+      left: 80px;
+      top: 40px;
+      width: 40px;
+      height: 180px;
+      background: #243D83;
+    }
+
+    /* Horizontal dark blue bar */
+    .horizontal {
+      position: absolute;
+      left: 80px;
+      top: 220px;
+      width: 220px;
+      height: 40px;
+      background: #243D83;
+    }
+
+    /* Diagonal dark blue bar */
+    .diagonal {
+      position: absolute;
+      left: 110px;
+      top: 79px;
+      width: 210px;
+      height: 33px;
+      background: #243D83;
+      transform: rotate(45deg); /* makes it diagonal */
+      transform-origin: left center;
+    }
+
+    /* Inner yellow triangle */
+    .triangle {
+      position: absolute;
+      left: 120px;
+      top: 120px;
+      width: 0;
+      height: 0;
+      border-left: 100px solid #EBE77E;    /* yellow part */
+      border-top: 100px solid transparent; /* invisible part */
+    }
+  </style>
+</head>
+<body>
+  <div class="canvas">
+    <div class="vertical"></div>
+    <div class="horizontal"></div>
+    <div class="diagonal"></div>
+    <div class="triangle"></div>
+  </div>
+</body>
+</html>
